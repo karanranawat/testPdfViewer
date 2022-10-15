@@ -1,0 +1,17 @@
+
+.pdfViewerDefault {
+    background-color: rgb(170, 170, 118);
+}
+
+.pdfControls {
+    background-color: rgb(176, 182, 216);
+    text-shadow: 1cm;
+}
+
+.pdfViewContent {
+    background-color: rgb(255, 238, 4);
+    height: 100%;
+    margin: 0 auto;
+    display: block;
+    min-height: 1000px;
+}
